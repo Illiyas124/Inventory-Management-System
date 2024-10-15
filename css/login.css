@@ -1,0 +1,18 @@
+body{
+    background: url(../images/background_img1.jpeg) center center no-repeat fixed;
+    background-size: cover;
+}
+div.loginHeader{
+    text-align: center; 
+}
+div.loginHeader h1{
+    font-size: 100px;
+    color: rgb(230, 39, 223);
+    padding: 0px;
+    margin: 0px;
+}
+div.loginHeader h3 {
+    color: rgb(250, 246, 171);
+    font-size: 60px;
+    border-bottom: 10px solid rgb(230, 39, 223);
+}
